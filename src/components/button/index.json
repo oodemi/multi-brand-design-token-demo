@@ -1,0 +1,42 @@
+{
+  "button": {
+    "height": {
+      "value": 44,
+      "category": "size"
+    },
+    "border_radius": {
+      "value": 16,
+      "category": "size"
+    },
+    "padding": {
+      "start": {
+        "value": "{spacing.m.value}",
+        "category": "size"
+      },
+      "end": {
+        "value": "{spacing.m.value}",
+        "category": "size"
+      }
+    },
+    "base": {
+      "text_color": {
+        "value": "{color.alias.primary.value}",
+        "category": "color"
+      },
+      "background_color": {
+        "value": "{color.alias.primary.value}",
+        "category": "color"
+      }
+    },
+    "selected": {
+      "text_color": {
+        "value": "{color.alias.primary.value}",
+        "category": "color"
+      },
+      "background_color": {
+        "value": "{color.alias.primary.value}",
+        "category": "color"
+      }
+    }
+  }
+}

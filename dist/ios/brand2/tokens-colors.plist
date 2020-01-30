@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+    <key>tokenColorGlobalBlue00</key><string>#00ABB3</string>
+    <key>tokenColorGlobalBlue01</key><string>#00B8C0</string>
+    <key>tokenColorGlobalBlue02</key><string>#52D5DE</string>
+    <key>tokenColorAliasPrimary</key><string>#00B8C0</string>
+    <key>tokenButtonBaseTextColor</key><string>#00B8C0</string>
+    <key>tokenButtonBaseBackgroundColor</key><string>#00B8C0</string>
+    <key>tokenButtonSelectedTextColor</key><string>#00B8C0</string>
+    <key>tokenButtonSelectedBackgroundColor</key><string>#00B8C0</string>
+    
+</dict>
+</plist>

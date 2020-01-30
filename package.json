@@ -1,0 +1,17 @@
+{
+  "name": "design-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build.js",
+    "watch": "chokidar 'src/**/*.json' -c 'node ./build.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "chokidar-cli": "^2.1.0",
+    "lodash": "^4.17.15",
+    "style-dictionary": "^2.8.3"
+  }
+}

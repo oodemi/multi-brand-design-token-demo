@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <color name="tokenColorGlobalBlue00">#00ABB3</color>
+    <color name="tokenColorGlobalBlue01">#00B8C0</color>
+    <color name="tokenColorGlobalBlue02">#52D5DE</color>
+    <color name="tokenColorAliasPrimary">#00B8C0</color>
+    <color name="tokenButtonBaseTextColor">#00B8C0</color>
+    <color name="tokenButtonBaseBackgroundColor">#00B8C0</color>
+    <color name="tokenButtonSelectedTextColor">#00B8C0</color>
+    <color name="tokenButtonSelectedBackgroundColor">#00B8C0</color>
+    
+</resources>

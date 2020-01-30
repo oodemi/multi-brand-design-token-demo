@@ -1,0 +1,24 @@
+{
+  "color": {
+    "global": {
+      "blue00": {
+        "value": "#00ABB3",
+        "category": "color"
+      },
+      "blue01": {
+        "value": "#00B8C0",
+        "category": "color"
+      },
+      "blue02": {
+        "value": "#52D5DE",
+        "category": "color"
+      }
+    },
+    "alias": {
+      "primary": {
+        "value": "{color.global.blue02.value}",
+        "category": "color"
+      }
+    }
+  }
+}

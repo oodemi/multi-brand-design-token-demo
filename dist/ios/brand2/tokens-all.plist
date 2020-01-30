@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+    <key>tokenColorGlobalBlue00</key><string>#00ABB3</string>
+    <key>tokenColorGlobalBlue01</key><string>#00B8C0</string>
+    <key>tokenColorGlobalBlue02</key><string>#52D5DE</string>
+    <key>tokenColorAliasPrimary</key><string>#00B8C0</string>
+    <key>tokenSpacingXxs</key><integer>4</integer>
+    <key>tokenSpacingXs</key><integer>8</integer>
+    <key>tokenSpacingS</key><integer>12</integer>
+    <key>tokenSpacingM</key><integer>16</integer>
+    <key>tokenSpacingL</key><integer>20</integer>
+    <key>tokenSpacingXl</key><integer>24</integer>
+    <key>tokenSpacingXxl</key><integer>32</integer>
+    <key>tokenButtonHeight</key><integer>44</integer>
+    <key>tokenButtonBorderRadius</key><integer>16</integer>
+    <key>tokenButtonPaddingStart</key><integer>16</integer>
+    <key>tokenButtonPaddingEnd</key><integer>16</integer>
+    <key>tokenButtonBaseTextColor</key><string>#00B8C0</string>
+    <key>tokenButtonBaseBackgroundColor</key><string>#00B8C0</string>
+    <key>tokenButtonSelectedTextColor</key><string>#00B8C0</string>
+    <key>tokenButtonSelectedBackgroundColor</key><string>#00B8C0</string>
+    
+</dict>
+</plist>

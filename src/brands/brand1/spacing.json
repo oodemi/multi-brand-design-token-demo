@@ -1,0 +1,32 @@
+{
+  "spacing": {
+    "xxs": {
+      "value": 4,
+      "category": "size"
+    },
+    "xs": {
+      "value": 8,
+      "category": "size"
+    },
+    "s": {
+      "value": 12,
+      "category": "size"
+    },
+    "m": {
+      "value": 16,
+      "category": "size"
+    },
+    "l": {
+      "value": 20,
+      "category": "size"
+    },
+    "xl": {
+      "value": 24,
+      "category": "size"
+    },
+    "xxl": {
+      "value": 32,
+      "category": "size"
+    }
+  }
+}
